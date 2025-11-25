@@ -1,0 +1,5 @@
+{
+  "name": "RR_Prototype_OrderGame",
+  "description": "A rhythm minigame where players must press the correct keys (A, S, D, F) as notes slide across the screen to a target mark. The game features a 30-second timer, a scoring system based on timing accuracy ('bad', 'good', 'perfect'), and a final results screen, all presented in a retro pixel art style.",
+  "requestFramePermissions": []
+}
